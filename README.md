@@ -13,7 +13,7 @@ The algorithm was tested on following objective functions:
 1. Sphere
 2. Rosenbrock
 
-The algorithm was developed by Dr. Beyza GORKEMLI and this project is created just for a homework that was given from Dr. Beyza GORKEMLI.
+The algorithm is developed by Dr. Beyza GORKEMLI and this project is created just for a homework that was given from Dr. Beyza GORKEMLI.
 
 
 
